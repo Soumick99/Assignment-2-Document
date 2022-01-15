@@ -193,5 +193,7 @@ footer{
      display: grid;
      grid-template-columns: repeat(2,1fr);
     }
+    .first-part,.blogs, .features-blog {
+        flex-direction: column;}
 }
 
